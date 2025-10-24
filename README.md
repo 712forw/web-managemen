@@ -1,4 +1,4 @@
-SQL源码
+SQL源码：
 
 CREATE TABLE dept (
   id int unsigned PRIMARY KEY AUTO_INCREMENT COMMENT 'ID, 主键',
